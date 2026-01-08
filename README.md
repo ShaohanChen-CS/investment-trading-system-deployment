@@ -1,8 +1,8 @@
 # Investment Trading System Deployment
 
 ## Overview
-This project simulates the deployment of an enterprise investment trading system in a local environment.
-The goal is to understand how production-style financial backend systems are provisioned, configured, and validated.
+This repository documents the deployment of an enterprise investment trading system in a local environment.
+The project focuses on system setup, environment configuration, and validation of end-to-end trading workflows.
 
 ## Environment
 - VMware Fusion
